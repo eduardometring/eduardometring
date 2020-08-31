@@ -6,3 +6,4 @@
 <p>You can join <a href="https://discord.com/invite/exCv2tX">this</a> server in case you want to talk with me about programming or <b>if you simply are in need of a new friend.
 </b> 😉</p>
 <p>You can also play <a href="https://happyfactory.glitch.me">this</a> game made by me and <a href="https://github.com/Rob-Boss01">Rob Boss</a> because it's extremely addictive and you'll have hours of fun! 😂</p>
+<h5><b><i>STAY HOME AND KEEP CODING!!</i></b></h5>
