@@ -1,4 +1,4 @@
-<h1>Eduardo Metring ✨</h1>
+<h1><a href="github.com/eduardometring">Eduardo Metring ✨</a></h1>
 
 <h3>Welcome to my profile!</h3>
 
